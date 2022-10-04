@@ -1,0 +1,115 @@
+{
+    "name": "Cuir",
+    "value": 0,
+    "choices": [
+        {
+            "name": "Café",
+            "value": 0,
+            "choices": [
+                {
+                    "name": "Hennessy XXO Hors d'Age Cognac",
+                    "image": "https://maison-soulat.fr/2215-thickbox_default/cognac-hennessy-xxo-hors-dage-.jpg",
+                    "value": 0
+                },
+                {
+                    "name": "Richard Hennessy",
+                    "image": "https://www.cognac-only.com/2056-large_default/cognac-hennessy-xo-richard-.jpg",
+                    "value": 1
+                }
+            ]
+        },
+        {
+            "name": "Chène",
+            "value": 1,
+            "choices": [
+                {
+                    "name": "Zeste d'orange",
+                    "value": 0,
+                    "choices": [
+                        {
+                            "name": "Hennessy Classivm Cognac",
+                            "image": "https://shop.cognatheque.com/4123-large_default/cognac-hennessy-vs-classivm.jpg",
+                            "value": 0
+                        },
+                        {
+                            "name": "Rose",
+                            "value": 1,
+                            "choices": [
+                                {
+                                    "name": "Hennessy Pure White Cognac",
+                                    "image": "https://shop.cognatheque.com/1062-large_default/cognac-hennessy-pure-white-vs.jpg",
+                                    "value": 0
+                                },
+                                {
+                                    "name": "Iris",
+                                    "value": 1,
+                                    "choices": [
+                                        {
+                                            "name": "James Hennessy Cognac",
+                                            "image": "https://maison-soulat.fr/2213-thickbox_default/cognac-hennessy-james-hennessy-xo.jpg",
+                                            "value": 0
+                                        },
+                                        {
+                                            "name": "Fruits confits",
+                                            "value": 1,
+                                            "choices": [
+                                                {
+                                                    "name": "Hennessy XO Extra Old Cognac",
+                                                    "image": "https://static.wineandco.com/themes/carrefour/images/produits/3/9/grd398.jpg",
+                                                    "value": 0
+                                                },
+                                                {
+                                                    "name": "Hennessy Master Blender's Selection n°4",
+                                                    "image": "https://www.hennessy.com/sites/hennessy_fr/files/styles/landscape_2880x1540/public/2020-06/01_750ml_fond_blanc_0.jpg",
+                                                    "value": 1
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Gingembre",
+                    "value": 1,
+                    "choices": [
+                        {
+                            "name": "Hennessy VS Very Special Cognac",
+                            "image": "https://static.cognac-expert.com/10041-thickbox_default/hennessy-vs-cognac-very-special.jpg",
+                            "value": 0
+                        },
+                        {
+                            "name": "Miel",
+                            "value": 1,
+                            "choices": [
+                                {
+                                    "name": "Hennessy VSOP Privilege Cognac",
+                                    "image": "https://www.aeliadutyfree.fr/media/catalog/product/cache/image/1200x/040ec09b1e35df139433887a97daa66f/e/c/ec20a91f71f3a04800522363a110690049a8f316_10046_2.jpg",
+                                    "value": 0
+                                },
+                                {
+                                    "name": "Amande",
+                                    "value": 1,
+                                    "choices": [
+                                        {
+                                            "name": "Hennessy VS Black Cognac",
+                                            "image": "https://zippywines.com/media/catalog/product/cache/9d08971813a040f8f96067a40f75c615/_oldsite/spirits/cognac/hennessy/hennessy-blackcog.jpg",
+                                            "value": 0
+                                        },
+                                        {
+                                            "name": "Hennessy Paradis",
+                                            "image": "https://www.hennessy.com/sites/hennessy_fr/files/styles/landscape_2880x1540/public/2020-01/01_PRODUCT_2880x1540_8.jpg",
+                                            "value": 1
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
